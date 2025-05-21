@@ -1,3 +1,5 @@
+![Open Source at VieInnovation](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+
 # VieInnovation
 
 Welcome to **VieInnovation**, a forward-thinking software organization dedicated to building breakthrough and creative technologies.
