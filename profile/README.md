@@ -1,4 +1,4 @@
-![Open Source at VieInnovation](https://github.com/VieInnovation/.github/blob/main/images/open_colab.png)
+![Open Source at VieInnovation](https://github.com/VieInnovation/.github/blob/main/images/open_colab-removebg-preview.png)
 
 # VieInnovation
 
